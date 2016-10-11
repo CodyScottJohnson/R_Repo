@@ -1,0 +1,6 @@
+Package: ImagineUtil
+Version: 0.1.0
+Depends: jsonlite, plyr, RODBC
+MD5sum: 424e29705af072d766cbcb96f53370b2
+NeedsCompilation: no
+
