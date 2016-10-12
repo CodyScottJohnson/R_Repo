@@ -1,0 +1,6 @@
+Package: MyFunctions
+Version: 0.1.1
+Depends: plyr
+MD5sum: 438c33d33bdb208ffd1d72f2ab8be3fc
+NeedsCompilation: no
+
