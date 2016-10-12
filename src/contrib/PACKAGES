@@ -1,12 +1,6 @@
-Package: ImagineUtil
-Version: 0.1.0
-Depends: jsonlite, plyr, RODBC
-MD5sum: 424e29705af072d766cbcb96f53370b2
-NeedsCompilation: no
-
 Package: MyFunctions
 Version: 0.1.1
 Depends: plyr
-MD5sum: a07b81780b303c68a67d3ed47b87e95f
+MD5sum: 438c33d33bdb208ffd1d72f2ab8be3fc
 NeedsCompilation: no
 
